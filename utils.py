@@ -15,7 +15,7 @@ from const import DEFAULT_CONFIG, APPS
 
 request = HTTPRequest()
 
-hella_api = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbiI6IjIwOTM3MjI5N18xNjY5MTgyMzI5In0.dtXIi6zaCc47m-I1C8bbntnkDhfqDDqQbOXCKD-qal4'
+hella_api = ''
 
 
 class ErrorHandler(VKErrorHandler):
